@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url: https://szhman.github.io/rithika.github.io/
+url: https://rithika.net
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -37,7 +37,7 @@ author:
   email: rithika@gmail.com
   # # Used by `jekyll-seo-tag`:
   twitter: None
-  rss: https://szhman.github.io/rithika.github.io/feed.xml # make sure you provide an absolute URL
+  rss: https://rithika.net/feed.xml # make sure you provide an absolute URL
 # Add links to the sidebar.
 menu:
   - title: Blog
