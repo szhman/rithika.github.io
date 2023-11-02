@@ -37,7 +37,7 @@ author:
   email: rithika@gmail.com
   # # Used by `jekyll-seo-tag`:
   twitter: None
-  rss: https://rithika.net/feed.xml # make sure you provide an absolute URL
+  rss: https://szhman.github.io/rithika.github.io/feed.xml # make sure you provide an absolute URL
 # Add links to the sidebar.
 menu:
   - title: Blog
