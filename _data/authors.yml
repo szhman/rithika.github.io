@@ -2,32 +2,32 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              James Kindon
+  name:              Rithika Kumar
   email:             <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am currently a Senior Solutions Architect by day with Nutanix in the Solutions Engineering team focused on end-user computing.
+    I am currently a Student at Baylor University.
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/james_c5a8562.jpg
+    path:            /assets/img/rithika.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/james_c5a8562.jpg
-      2x:            /assets/img/james_c5a8562.jpg
+      1x:            /assets/img/rithika.jpg
+      2x:            /assets/img/rithika.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         james_kindon
-    github:          jameskindon
-    linkedin:        jkindon
-    spotify:         james.kindon
+    twitter:         none
+    github:          none
+    linkedin:        rithika-kumar-1o61803398875
+    spotify:         none
     # email:           <mail@domain.tld>
-    rss:             https://jkindon.com/feed.xml
+    rss:             https://rithika.net/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
